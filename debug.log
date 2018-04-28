@@ -1,0 +1,27 @@
+[0317/101304.177:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\Navin-PC\AppData\Local\Temp\scoped_dir8332_23485\Crashpad: There is not enough space on the disk. (0x70)
+[0317/101304.180:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0317/101304.181:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\Navin-PC\AppData\Local\Temp\scoped_dir8332_23485\Crashpad: There is not enough space on the disk. (0x70)
+[0325/012156.210:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.272:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.272:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.272:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.272:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.272:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.272:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.272:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.272:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0325/012156.304:ERROR:exception_snapshot_win.cc(88)] thread ID 7012 not found in process
+[0325/012156.304:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0325/012156.288:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.350:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.350:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.350:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.350:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.350:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.350:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0325/012156.350:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0325/012156.350:ERROR:exception_snapshot_win.cc(88)] thread ID 8004 not found in process
+[0325/012156.350:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0421/105337.206:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0421/105337.222:ERROR:exception_snapshot_win.cc(88)] thread ID 4192 not found in process
+[0421/105337.222:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed

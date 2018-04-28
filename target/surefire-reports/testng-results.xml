@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22386" started-at="2018-04-21T05:56:53Z" finished-at="2018-04-21T05:57:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22386" started-at="2018-04-21T05:56:53Z" finished-at="2018-04-21T05:57:16Z">
+      <class name="SelWeek4Day1.CreateLead">
+        <test-method status="PASS" signature="createLeadTestCase()[pri:0, instance:SelWeek4Day1.CreateLead@1a57a3b]" name="createLeadTestCase" duration-ms="22354" started-at="2018-04-21T05:56:53Z" finished-at="2018-04-21T05:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLeadTestCase -->
+      </class> <!-- SelWeek4Day1.CreateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
